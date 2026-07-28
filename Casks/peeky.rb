@@ -1,6 +1,6 @@
 cask "peeky" do
-  version "0.2.0"
-  sha256 "9118e626eec7044f6cfbf2de94cfdb343020fad83ef083d3cbd3c6b117354d8f"
+  version "0.2.1"
+  sha256 "99cb81209ffb51f7d629676bb872807acc11172ade8a2ee71dcb854e06e4e29d"
 
   url "https://github.com/HcaZreJ/Peeky/releases/download/v#{version}/Peeky-v#{version}.zip"
   name "Peeky"
